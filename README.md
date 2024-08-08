@@ -23,9 +23,10 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> </a>
   <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> </a> 
+  <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/> </a> 
 </p>
+
 
 ## 📈 GitHub Stats
 <p align="center">
