@@ -17,6 +17,21 @@
 - 📫 How to reach me **krprashant0412@gmail.com**
 - ⚡ Fun fact **I love to solve complex problems and build innovative solutions**
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## 🚀 Skills
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a> 
@@ -51,3 +66,7 @@
 <a href="https://github.com/codebreaker-pk/repo2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codebreaker-pk&repo=repo2&theme=radical" />
 </a>
+
+
+
+
