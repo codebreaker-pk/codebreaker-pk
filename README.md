@@ -51,5 +51,5 @@
 </a>
 
 <p align="center">
-  <img src="https://github.com/codebreaker-pk/codebreaker-pk/raw/master/snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/codebreaker-pk/codebreaker-pk/output/snake.svg" alt="Snake Animation" />
 </p>
