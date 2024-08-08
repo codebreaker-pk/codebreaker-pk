@@ -50,12 +50,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codebreaker-pk&repo=repo2&theme=radical" />
 </a>
 
-<p align="center">
-  <img src="https://github.com/codebreaker-pk/codebreaker-pk/output/snake.svg" alt="Snake Animation" />
-</p>
 
-## 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/codebreaker-pk/codebreaker-pk/blob/output/contribution.svg" alt="Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codebreaker-pk/codebreaker-pk/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codebreaker-pk/codebreaker-pk/blob/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/codebreaker-pk/codebreaker-pk/blob/output/github-snake.svg" />
+</picture>
+
