@@ -54,3 +54,8 @@
   <img src="https://github.com/codebreaker-pk/codebreaker-pk/output/snake.svg" alt="Snake Animation" />
 </p>
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/codebreaker-pk/codebreaker-pk/blob/output/contribution.svg" alt="Contribution Graph" />
+</p>
