@@ -9,7 +9,7 @@
   <a href="https://x.com/Prashu0412" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/life_learninng" target="_blank">
+  <a href="https://www.instagram.com/prashant.kr04?igsh=ZmJ3dDBubjNpeHF3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:krprashant0412@gmail.com" target="_blank">
@@ -46,7 +46,7 @@
 - ⚡ Fun fact: **I love solving complex problems and building innovative solutions**
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/prashantk">
+  <a href="https://www.buymeacoffee.com/prashant04">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </p>
