@@ -192,9 +192,20 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebreaker-pk&theme=algolia&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=codebreaker-pk&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-trophy.vercel.app/?username=codebreaker-pk&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=codebreaker-pk&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15"
+      alt="GitHub Trophies for codebreaker-pk" />
+  </picture>
+</p>
+
 
 ## 📈 My Expertise & Journey
 
