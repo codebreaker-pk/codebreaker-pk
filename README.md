@@ -229,7 +229,7 @@
         </ul>
       </td>
       <td align="center" width="33%">
-        <img src="https://cdn.dribbble.com/users/347174/screenshots/1682257/media/e236d8de9dd0be3346504d393acdf417.gif" width="100%">
+        <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%">
         <br>
         <strong>Blockchain Development</strong>
         <ul align="left">
@@ -241,7 +241,7 @@
         </ul>
       </td>
       <td align="center" width="33%">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/1*LfW66-WN271LjGeQvwsxhg.gif" width="100%">
+        <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%">
         <br>
         <strong>Web Development</strong>
         <ul align="left">
