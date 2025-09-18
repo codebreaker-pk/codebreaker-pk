@@ -91,7 +91,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebreaker-pk&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C47FF&ring=6C47FF&fire=6C47FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6C47FF&sideLabels=6C47FF&dates=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/badge/Current%20Streak-45%20days-6C47FF?style=for-the-badge&logo=github" alt="Current Streak"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Total%20Contributions-600+-6C47FF?style=for-the-badge&logo=github" alt="Total Contributions"/>
 </p>
 
 <!-- Activity Graph -->
